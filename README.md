@@ -7,11 +7,11 @@ In-Memory Linked List application with a REST API built using Express and a clea
 * `cd` to the directory (note: you will need two terminal windows)
 * In one terminal window `cd backend` and in the other, `cd frontend`
 * ###### Front-end instructions:
-`npm install`\n
+`npm install`<br />
 `npm run serve`
 
 * ###### Back-end instructions:
-`npm install`\n
+`npm install`<br />
 `npm start`
 
 Site should be located at localhost. Port number is in the front-end terminal.
