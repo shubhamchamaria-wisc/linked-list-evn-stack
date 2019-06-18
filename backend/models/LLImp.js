@@ -91,7 +91,6 @@ class LinkedList
     {
         if (this[head] === null || index < 0) 
         {
-            console.log("CHUT1")
             return undefined;
         }
 
